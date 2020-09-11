@@ -4,7 +4,7 @@ function App() {
   return (
      <div className="grid-container">
        <header>
-         <a href="/"> React shopping cartt </a>
+         <a href="/"> React shopping carttttt </a>
        </header>
        <main>
          Product List
