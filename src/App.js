@@ -1,10 +1,10 @@
 import React from 'react';
-
+//feature-1
 function App() {
   return (
      <div className="grid-container">
        <header>
-         <a href="/"> React shopping cart2 </a>
+         <a href="/"> React shopping cart </a>
        </header>
        <main>
          Product List
