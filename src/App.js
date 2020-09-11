@@ -13,9 +13,6 @@ function App() {
          All right is reserved 
        </footer>
       </div>
-        
-
-
 
   );
 }
